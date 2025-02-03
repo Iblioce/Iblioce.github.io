@@ -5,7 +5,7 @@ h1 {
 }
 
 body {
-    background-color: #221c24;
+    background-color: #231725;
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
@@ -21,7 +21,7 @@ body {
 }
 
 .navbar-dark .nav-item .nav-link:hover {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: #231725;
     transition: all 0.3s ease;
     border-radius: 5px;
     color: #f3d1d1d7; 
