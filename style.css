@@ -1,8 +1,11 @@
 .navbar {
-    background-color: #333;
+    background-color: #2f1f2f;
     color: #fff;
 }
 
 .h1 {
     color: #f3d1d1d7;
+}
+.background {
+    background-color: #221c24;
 }
